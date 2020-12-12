@@ -196,6 +196,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+  armv7l-linux-eabihf
   ruby
 
 DEPENDENCIES
@@ -222,4 +223,4 @@ RUBY VERSION
    ruby 2.7.0p0
 
 BUNDLED WITH
-   2.1.4
+   2.2.0
