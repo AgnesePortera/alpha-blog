@@ -1,0 +1,21 @@
+@import 'node_modules/bootstrap/dist/css/bootstrap.css';
+
+.navbar {
+  background-color: lightskyblue !important;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+a.navbar-brand:hover {
+  background-color: transparent;
+}
+
+a.nav-link:hover {
+  background-color: transparent;
+}
+
+a.dropdown-item:hover {
+  background-color: transparent;
+}
