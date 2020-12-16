@@ -1,12 +1,55 @@
 @import 'node_modules/bootstrap/dist/css/bootstrap.css';
 
 .navbar {
-  background-color: lightskyblue !important;
+  background-color: black !important;
+}
+
+.nav-link {
+  color: white !important;
 }
 
 .navbar-brand {
   font-size: 2rem;
 }
+
+#logo{
+  float: left;
+  font-size: 1.7em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#home-container{
+  margin-top: 25px;
+}
+
+.jumbotron{
+  background-image: asset-url('guitar.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 425px;
+}
+
+/* Sticky Footer Classes */
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+  background-color: lightgrey;
+}
+
+#sticky-footer {
+  flex-shrink: 0;
+}
+
+/*
 
 a.navbar-brand:hover {
   background-color: transparent;
@@ -19,3 +62,4 @@ a.nav-link:hover {
 a.dropdown-item:hover {
   background-color: transparent;
 }
+*/
