@@ -1,4 +1,4 @@
-# README - Alpha Blog
+# README
 
 ![Ruby](https://img.shields.io/badge/Ruby-v2.7-red)
 ![RubyOnRails](https://img.shields.io/badge/RoR-6.0.3-red)
