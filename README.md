@@ -24,7 +24,7 @@ The blog includes the following features:
 * Associate an article to a category
 * View all articles, categories and users with all related elements
 
-![preview gif](https://github.com/AgnesePortera/alpha-blog/blob/master/app/assets/images/preview.gif)
+![preview gif](https://github.com/AgnesePortera/alpha-blog/tree/master/app/assets/images/preview-blog.gif)
 
 
 ### How to run the test suite
