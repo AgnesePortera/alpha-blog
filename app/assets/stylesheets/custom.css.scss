@@ -35,6 +35,20 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 425px;
+  background-color: black;
+}
+
+.btn-outline-success{
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-outline-success:hover {
+  color:  #28a745;
+  background-color: whitesmoke;
+  border-color: gray;
+  opacity: 90%;
 }
 
 /* Sticky Footer Classes */
